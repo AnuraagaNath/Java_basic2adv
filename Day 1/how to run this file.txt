@@ -1,0 +1,10 @@
+1. go to directory and open cmd.
+
+type 
+	```
+	java 00_Day1.java
+	```
+
+
+or,
+2. click on run button at vscode.
